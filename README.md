@@ -97,7 +97,7 @@ Multi-query 等价于：
 ```
 .
 ├── advanced_rag.py        # 主程序（包含 baseline / multi-query / routing）
-├── baseline.ipynb         # Notebook 演示（已清理敏感信息）
+├── baseline.ipynb         # Baseline Notebook 演示
 ├── .env.example           # 环境变量模板
 ├── .gitignore
 └── README.md
